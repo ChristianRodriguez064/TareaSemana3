@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Mis Mascotas</string>
+    <string-array name="mascotas">
+        <item>Perro</item>
+        <item>Gato</item>
+        <item>Pajaro</item>
+        <item>Conejo</item>
+        <item>Pez</item>
+        <item>Castor</item>
+        <item>Girafa</item>
+        <item>Hamster</item>
+        <item>Mono</item>
+        <item>Tigre</item>
+        <item>Tortuga</item>
+        <item>Vaca</item>
+    </string-array>
+    <string-array name="mascotasFavoritas">
+        <item>Perro</item>
+        <item>Gato</item>
+        <item>Conejo</item>
+        <item>Hamster</item>
+        <item>Tigre</item>
+    </string-array>
+    <string-array name="descripcion">
+        <item>Este es mi Perro</item>
+        <item>Este es mi Gato</item>
+        <item>Este es mi Pajaro</item>
+        <item>Este es mi Conejo</item>
+        <item>Este es mi Pez</item>
+        <item>Este es mi Castor</item>
+        <item>Este es mi Girafa</item>
+        <item>Este es mi Hamster</item>
+        <item>Este es mi Mono</item>
+        <item>Este es mi Tigre</item>
+        <item>Este es mi Tortuga</item>
+        <item>Este es mi Vaca</item>
+    </string-array>
+    <string-array name="descripcionFavoritas">
+        <item>Este es mi Perro</item>
+        <item>Este es mi Gato</item>
+        <item>Este es mi Conejo</item>
+        <item>Este es mi Hamster</item>
+        <item>Este es mi Tigre</item>
+    </string-array>
+</resources>
